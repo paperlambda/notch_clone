@@ -1,7 +1,6 @@
 # notch_clone
 
-A new Flutter project.
-
+Notch Application Clone build in Flutter (Personal use)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
